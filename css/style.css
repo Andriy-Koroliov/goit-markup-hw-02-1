@@ -1,12 +1,19 @@
 .company-logo{text-decoration: none;}
 .nav-list-link{text-decoration: none;}
-.adress-email{text-decoration: none;}
+.nav-list-link-color{text-decoration: none;}
+.adress-email-color{text-decoration: none;}
 .adress-phone{text-decoration: none;}
 .footer-company-logo{text-decoration: none;}
 .footer-nav-item-maps{text-decoration: none;}
 .footer-nav-item-email{text-decoration: none;}
 .footer-nav-item-phone-number{text-decoration: none;}
-.company-logo{position: absolute;
+.nav-list-link-color:focus,
+.nav-list-link-color:hover{color:#2196F3;}
+.adress-email-color:focus,
+.adress-email-color:hover{color:#2196F3;}
+.ul,li
+{list-style: none;}
+.company-logo{position: absolute;    
     width: 145px;
     height: 31px;
     left: 215px;
