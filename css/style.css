@@ -1,5 +1,14 @@
-.link{text-decoration: none;}
-.body{color:red;}
-.test-link:hover{
-    color: red;
-}
+.company-logo
+{text-decoration: none;}
+.studio
+{text-decoration: none;}
+.portfolio
+{text-decoration: none;}
+.contakt
+{text-decoration: none;}
+.email
+{text-decoration: none;}
+.phone-number
+{text-decoration: none;}
+.order
+{text-decoration: none;}
