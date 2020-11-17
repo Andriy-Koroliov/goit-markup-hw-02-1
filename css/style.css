@@ -2,8 +2,10 @@
 .nav-list-link{text-decoration: none;}
 .adress-email{text-decoration: none;}
 .adress-phone{text-decoration: none;}
-
-
+.footer-company-logo{text-decoration: none;}
+.footer-nav-item-maps{text-decoration: none;}
+.footer-nav-item-email{text-decoration: none;}
+.footer-nav-item-phone-number{text-decoration: none;}
 .company-logo{position: absolute;
     width: 145px;
     height: 31px;
