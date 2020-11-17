@@ -1,11 +1,15 @@
 .company-logo
 {text-decoration: none;}
+.studio:hover,
+.studio:focus{color: #2196F3;}
 .studio
 {text-decoration: none;}
 .portfolio
 {text-decoration: none;}
 .contakt
 {text-decoration: none;}
+.email:hover,
+.email:focus{color: #2196F3;}
 .email
 {text-decoration: none;}
 .phone-number
