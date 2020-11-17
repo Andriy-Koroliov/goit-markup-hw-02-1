@@ -1,5 +1,6 @@
 .company-logo{text-decoration: none;}
-.nav-list-link{text-decoration: none;}
+.nav-list-link-p{text-decoration: none;}
+.nav-list-link-k{text-decoration: none;}
 .nav-list-link-color{text-decoration: none;}
 .adress-email-color{text-decoration: none;}
 .adress-phone{text-decoration: none;}
@@ -13,7 +14,8 @@
 .adress-email-color:hover{color:#2196F3;}
 .ul,li
 {list-style: none;}
-.company-logo{position: absolute;    
+.company-logo
+{position: absolute;    
     width: 145px;
     height: 31px;
     left: 215px;
@@ -26,3 +28,83 @@
     /* identical to box height */
     letter-spacing: 0.03em;
     color: #2196F3;}
+.nav-list-link-color
+{position: absolute;
+    width: 49px;
+    height: 16px;
+    left: 453px;
+    top: 32px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1,14;
+    letter-spacing: 0.02em;
+    color: #2196F3;}
+.nav-list-link-p
+{position: absolute;
+    width: 77px;
+    height: 16px;
+    left: 552px;
+    top: 32px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1,14;
+    letter-spacing: 0.02em;
+    color: #212121;}
+.nav-list-link-k
+{position: absolute;
+    width: 68px;
+    height: 16px;
+    left: 679px;
+    top: 32px;
+    font-family:'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1,14;
+    letter-spacing: 0.02em;
+    color: #212121;}
+.adress-email-color
+{position: absolute;
+    width: 135px;
+    height: 16px;
+    left: 1078px;
+    top: 32px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1,14;
+    letter-spacing: 0.02em;
+    color: #2196F3;}
+.adress-phone
+{position: absolute;
+    width: 122px;
+    height: 16px;
+    left: 1263px;
+    top: 32px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1,14;
+    letter-spacing: 0.02em;
+    color: #757575;} 
+.h1
+{position: absolute;
+    width: 696px;
+    height: 120px;
+    left: 452px;
+    top: 280px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 1,36;
+    /* or 136% */
+    text-align: center;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;}                   
