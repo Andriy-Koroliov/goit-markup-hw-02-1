@@ -1,21 +1,19 @@
-.color-element{color: #212121;}
-.company-logo
-{text-decoration: none;}
-.studio:hover,
-.studio:focus{color: #2196F3;}
-.studio
-{text-decoration: none;}
-.portfolio
-{text-decoration: none;}
-.contakt
-{text-decoration: none;}
-.email:hover,
-.email:focus{color: #2196F3;}
-.email
-{text-decoration: none;}
-.phone-number
-{text-decoration: none;}
-.order
-{text-decoration: none;}
-.maps
-{text-decoration: none;}
+.company-logo{text-decoration: none;}
+.nav-list-link{text-decoration: none;}
+.adress-email{text-decoration: none;}
+.adress-phone{text-decoration: none;}
+
+
+.company-logo{position: absolute;
+    width: 145px;
+    height: 31px;
+    left: 215px;
+    top: 24px;
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 1,19;
+    /* identical to box height */
+    letter-spacing: 0.03em;
+    color: #2196F3;}
