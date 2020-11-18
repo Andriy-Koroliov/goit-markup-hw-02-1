@@ -83,17 +83,17 @@
     text-align: non;
     letter-spacing: 0.06em;
     text-transform: uppercase;}    
-.modal-button
+.modal-button-c
 {font-family:'Roboto', sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 16px;
     line-height: 1.875;
     /* identical to box height, or 187% */
-    display: flex;
+    display: first;
     align-items: center;
     text-align: center;
-    letter-spacing: 0.06em;background-color: transparent;}
+    letter-spacing: 0.06em;background-color:#2196F3;}
 .section-pises
 {font-family: 'Roboto', sans-serif;
     font-style: normal;
@@ -186,4 +186,22 @@
     line-height: 1.71;
     /* or 171% */
     letter-spacing: 0.03em;
-    color: #757575;}                                 
+    color: #757575;}
+.title
+{font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 2;
+    /* identical to box height, or 200% */
+    letter-spacing: 0.06em;
+    color: #212121;}
+.category
+{font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 1.87;
+    /* identical to box height, or 187% */
+    letter-spacing: 0.03em;
+    color: #757575;}                                         
