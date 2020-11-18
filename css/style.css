@@ -19,7 +19,7 @@
     font-style: normal;
     font-weight: bold;
     font-size: 26px;
-    line-height: 1,19;
+    line-height: 1.19;
     /* identical to box height */
     letter-spacing: 0.03em;
     color: #2196F3;}
@@ -28,7 +28,7 @@
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
-    line-height: 1,14;
+    line-height: 1.14;
     letter-spacing: 0.02em;
     color: #2196F3;}
 .nav-list-link-p
@@ -36,7 +36,7 @@
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
-    line-height: 1,14;
+    line-height: 1.14;
     letter-spacing: 0.02em;
     color: #212121;}
 .nav-list-link-k
@@ -44,7 +44,7 @@
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
-    line-height: 1,14;
+    line-height: 1.14;
     letter-spacing: 0.02em;
     color: #212121;}
 .adress-email-color
@@ -52,7 +52,7 @@
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
-    line-height: 1,14;
+    line-height: 1.14;
     letter-spacing: 0.02em;
     color: #2196F3;}
 .adress-phone
@@ -60,7 +60,7 @@
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
-    line-height: 1,14;
+    line-height: 1.14;
     letter-spacing: 0.02em;
     color: #757575;} 
 .h1
@@ -68,7 +68,7 @@
     font-style: normal;
     font-weight: 900;
     font-size: 44px;
-    line-height: 1,36;
+    line-height: 1.36;
     /* or 136% */
     text-align: center;
     letter-spacing: 0.06em;
@@ -78,7 +78,7 @@
     font-style: normal;
     font-weight: 900;
     font-size: 44px;
-    line-height: 1,36;
+    line-height: 1.36;
     /* or 136% */
     text-align: center;
     letter-spacing: 0.06em;
@@ -88,9 +88,66 @@
     font-style: normal;
     font-weight: bold;
     font-size: 16px;
-    line-height: 1,875;
+    line-height: 1.875;
     /* identical to box height, or 187% */
     display: flex;
     align-items: center;
     text-align: center;
     letter-spacing: 0.06em;background-color: transparent;}
+.section-pises
+{font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #212121;}
+.section-pises-diskripnion
+{font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 1.71;
+    /* or 171% */
+    letter-spacing: 0.03em;
+    color: #757575;}
+.about
+{font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 1.16;
+    text-align: center;
+    letter-spacing: 0.03em;
+    
+    color: #212121;}
+.owners
+{font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 1.16;
+    text-align: non;
+    letter-spacing: 0.03em;
+    color: #212121;}
+.pipl
+{font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.18;
+    /* identical to box height */
+    text-align: non;
+    letter-spacing: 0.03em;
+    color: #212121;}
+.profession
+{font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 1.18;
+    /* identical to box height */
+    text-align: non;
+    letter-spacing: 0.03em;
+    color: #757575;}                    
