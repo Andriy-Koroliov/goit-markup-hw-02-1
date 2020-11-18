@@ -15,12 +15,7 @@
 .ul,li
 {list-style: none;}
 .company-logo
-{position: absolute;    
-    width: 145px;
-    height: 31px;
-    left: 215px;
-    top: 24px;
-    font-family: 'Raleway', sans-serif;
+{   font-family: 'Raleway', sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 26px;
@@ -29,12 +24,7 @@
     letter-spacing: 0.03em;
     color: #2196F3;}
 .nav-list-link-color
-{position: absolute;
-    width: 49px;
-    height: 16px;
-    left: 453px;
-    top: 32px;
-    font-family: 'Roboto', sans-serif;
+{font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
@@ -42,12 +32,7 @@
     letter-spacing: 0.02em;
     color: #2196F3;}
 .nav-list-link-p
-{position: absolute;
-    width: 77px;
-    height: 16px;
-    left: 552px;
-    top: 32px;
-    font-family: 'Roboto', sans-serif;
+{font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
@@ -55,12 +40,7 @@
     letter-spacing: 0.02em;
     color: #212121;}
 .nav-list-link-k
-{position: absolute;
-    width: 68px;
-    height: 16px;
-    left: 679px;
-    top: 32px;
-    font-family:'Roboto', sans-serif;
+{font-family:'Roboto', sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
@@ -68,12 +48,7 @@
     letter-spacing: 0.02em;
     color: #212121;}
 .adress-email-color
-{position: absolute;
-    width: 135px;
-    height: 16px;
-    left: 1078px;
-    top: 32px;
-    font-family: 'Roboto', sans-serif;
+{font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
@@ -81,12 +56,7 @@
     letter-spacing: 0.02em;
     color: #2196F3;}
 .adress-phone
-{position: absolute;
-    width: 122px;
-    height: 16px;
-    left: 1263px;
-    top: 32px;
-    font-family: 'Roboto', sans-serif;
+{font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
@@ -94,12 +64,7 @@
     letter-spacing: 0.02em;
     color: #757575;} 
 .h1
-{position: absolute;
-    width: 696px;
-    height: 120px;
-    left: 452px;
-    top: 280px;
-    font-family: 'Roboto', sans-serif;
+{font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 900;
     font-size: 44px;
@@ -109,12 +74,7 @@
     letter-spacing: 0.06em;
     text-transform: uppercase;}
 .hero-title
-{position: absolute;
-    width: 696px;
-    height: 120px;
-    left: 452px;
-    top: 280px;
-    font-family:'Roboto', sans-serif;
+{font-family:'Roboto', sans-serif;
     font-style: normal;
     font-weight: 900;
     font-size: 44px;
@@ -124,12 +84,7 @@
     letter-spacing: 0.06em;
     text-transform: uppercase;}    
 .modal-button
-{position: absolute;
-    width: 136px;
-    height: 30px;
-    left: 732px;
-    top: 440px;
-    font-family:'Roboto', sans-serif;
+{font-family:'Roboto', sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 16px;
