@@ -55,6 +55,7 @@ li {
   height: 80px;
 }
 .container {
+  display: block;
   width: 1200px;
   padding-left: 15px;
   padding-right: 15px;
@@ -270,56 +271,79 @@ li {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   padding-top: 10px;
+  color: #757575;
 }
 .about {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
+  display: block;
+  margin-top: 0px;
+  margin-bottom: 10px;
   font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 36px;
   line-height: 1.16;
-  text-align: non;
+  text-align: center;
   letter-spacing: 0.03em;
-
   color: #212121;
+}
+.about-photo {
+  display: flex;
+}
+.job-photo {
+  display: block;
+  width: 370px;
+  margin-right: 30px;
+}
+.section-owners {
+  background-color: #dcd9e4;
+  height: 648px;
 }
 .owners {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
+  display: block;
+  margin-top: 0px;
+  padding-top: 30px;
+  margin-bottom: 10px;
   font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 36px;
   line-height: 1.16;
-  text-align: non;
+  text-align: center;
   letter-spacing: 0.03em;
   color: #212121;
 }
-.pipl {
+.owners-team {
   display: flex;
+  text-align: center;
+}
+.owners-photo {
+  display: list-item;
+  width: 270px;
+  margin-right: 30px;
+  background-color: #ffffff;
+}
+.pipl {
+  display: block;
   align-items: center;
+  padding-top: 10px;
   font-family: "Roboto", sans-serif;
   font-style: normal;
-  font-weight: 500;
+  font-weight: bold;
   font-size: 16px;
   line-height: 1.18;
-  /* identical to box height */
   text-align: non;
   letter-spacing: 0.03em;
   color: #212121;
 }
 .profession {
-  display: flex;
+  display: block;
   align-items: center;
+  padding-top: 10px;
   font-family: "Roboto", sans-serif;
   font-style: normal;
-  font-weight: normal;
+  font-weight: bold;
   font-size: 16px;
   line-height: 1.18;
-  /* identical to box height */
   text-align: non;
   letter-spacing: 0.03em;
   color: #757575;
