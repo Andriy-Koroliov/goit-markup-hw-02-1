@@ -349,6 +349,15 @@ li {
   color: #757575;
 }
 /*----------------------FOOTER----------------*/
+.footer {
+  display: block;
+  justify-content: center;
+  align-items: baseline;
+  width: 1600px;
+  height: 252px;
+  background: #2f303a;
+}
+
 .footer-company-logo {
   display: inline-block;
   font-family: "Raleway", sans-serif;
@@ -410,4 +419,3 @@ li {
   letter-spacing: 0.03em;
   color: #757575;
 }
-.owners
